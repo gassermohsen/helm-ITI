@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/chart.json": "file:///home/gasser/helm/lab2/python/templates/configmap.yaml%20"
+    }
+}
